@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/30b55c0e-b792-43a7-8240-2be51dda96be)![image](https://github.com/user-attachments/assets/026f90fe-a253-46ed-b5fb-ba47218669af)<h1 align="center">Hi 👋, I'm Biuuu2309</h1>
 <h3 align="center">Web Developer, Software Designer, AI, Data Engineer, Scientist</h3>
 
-<img align="right" alt="API" width="400" src="[https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif](https://github.com/user-attachments/assets/026f90fe-a253-46ed-b5fb-ba47218669af)">
+<img align="right" alt="API" width="400" src="https://i0.wp.com/epe.brightspotcdn.com/c4/fc/d41779074e15b3d8a634c61c8c29/ai-interview-animated.gif?ssl=1">
 
 - 🔭 I’m currently working on **HIU.**
 
