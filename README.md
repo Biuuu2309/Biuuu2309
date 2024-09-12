@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/30b55c0e-b792-43a7-8240-2be51dda96be)![image](https://github.com/user-attachments/assets/026f90fe-a253-46ed-b5fb-ba47218669af)<h1 align="center">Hi 👋, I'm Biuuu2309</h1>
 <h3 align="center">Web Developer, Software Designer, AI, Data Engineer, Scientist</h3>
 
-<img align="right" alt="API" width="400" src="[https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif](https://i0.wp.com/img.etimg.com/thumb/width-1200,height-900,imgsize-820943,resizemode-75,msid-80218989/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg?ssl=1)">
+<img align="right" alt="API" width="400" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 
 - 🔭 I’m currently working on **HIU.**
 
