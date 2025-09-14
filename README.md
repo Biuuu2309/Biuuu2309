@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Biuuu2309</h1>
-<h3 align="center">Web Developer, Software Designer, AI, Data Engineer, Scientist</h3>
+<h1 align="center">Hi 👋, I'm BiuBiu</h1>
+<h3 align="center">Data Science, AI, Machine Learning, Deep Learning, Web Developer</h3>
 
 <img align="right" alt="API" width="400" src="https://i0.wp.com/epe.brightspotcdn.com/c4/fc/d41779074e15b3d8a634c61c8c29/ai-interview-animated.gif?ssl=1">
-
-- 🔭 I’m currently working on **HIU.**
-
-- 🌱 I’m currently learning **Coursera course.**
 
 - 📫 How to reach me **minhvu040105@gmail.com**
 
