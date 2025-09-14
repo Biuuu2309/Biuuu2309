@@ -11,7 +11,7 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 - 🚀 Always eager to learn and adopt new technologies to deliver impactful solutions  
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0e1af8ab-b90b-4518-8d6a-308967389e19" />
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ---
 
