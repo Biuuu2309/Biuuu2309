@@ -10,6 +10,9 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 - 💻 Enthusiastic about building intelligent systems where data and AI work hand in hand to solve complex problems  
 - 🚀 Always eager to learn and adopt new technologies to deliver impactful solutions  
 
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0e1af8ab-b90b-4518-8d6a-308967389e19" />
+
 ---
 
 ## ⚡ Skills & Tools
