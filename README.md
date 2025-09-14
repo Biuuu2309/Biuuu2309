@@ -10,7 +10,6 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 - 💻 Enthusiastic about building intelligent systems where data and AI work hand in hand to solve complex problems  
 - 🚀 Always eager to learn and adopt new technologies to deliver impactful solutions  
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ## ⚡ Skills & Tools
