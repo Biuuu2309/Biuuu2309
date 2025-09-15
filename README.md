@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm BiuBiu</h1>
+
+
 <h3 align="center">Data Science, AI, Machine Learning, Deep Learning, Web Developer</h3>
 
 ---
 
-## ✨ About Me (English)
+## ✨ About Me
 <p align="right">
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="250"/>
 </p>
@@ -18,20 +20,46 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 
 
 
-## 👉 Programming languages
+## 👉 Languages, Skills and Tools
+
+<h3 align="center">AI and Data Science</h3>
+
 
 <p align="center">
-  &emsp;
-  <li>Front End</li>
-  &emsp;
+  
+![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)
+
+</p>
+
+
+
+
+<h3><p align="center">Front End</p></h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap" />
   </a>
-  &emsp;
-  <li>Back End</li>
-  &emsp;
+</p>
+
+<h3><p align="center">Back End</p></h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,flask,postgres,mysql,spring" />
+  </a>
+</p>
+
+<h3><p align="center">AI Technology</p></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow" />
+  </a>
+</p>
+
+
+<h3><p align="center">Others</p></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,c,cpp,cs,java,py,flask,docker,postgres,github,git,mysql,postman,vscode,anaconda,androidstudio,arduino,dotnet,github,idea,pycharm,pytorch,r,raspberrypi,spring,sklearn,tensorflow,visualstudio" />
   </a>
 </p>
 
