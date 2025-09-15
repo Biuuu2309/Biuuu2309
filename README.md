@@ -17,41 +17,25 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 
 
 
-## ⚡ Skills & Tools
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+
+## 👉 Programming languages
+
 <p align="center">
+  &emsp;
+  <li>Front End</li>
+  &emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+  &emsp;
+  <li>Back End</li>
+  &emsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
-
-### 👉 Programming languages
-
-<p align="left"> 
-  
-
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
-
-</p>
-
-### 👉 Frameworks
+## 👉 Frameworks
 <p align="left"> 
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
@@ -75,7 +59,7 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+## 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -87,7 +71,7 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
 
- ### 👉 Software & Tools
+ ## 👉 Software & Tools
  
 <p>
   &emsp;
