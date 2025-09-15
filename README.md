@@ -22,36 +22,46 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 
 ## 👉 Languages, Skills and Tools
 
-<h3 align="center">AI and Data Science</h3>
+<h3 align="center">AI, Data Science and Tools</h3>
 
 
-<p align="center">
-  
-![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)
+<div align="center">
 
-</p>
+<img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge"/>
 
 
+<br>
+<br>
+
+![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+</div>
 
 
-<h3><p align="center">Front End</p></h3>
+<h3><p align="center">Website and Moblie development</p></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap" />
-  </a>
-</p>
-
-<h3><p align="center">Back End</p></h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,flask,postgres,mysql,spring" />
-  </a>
-</p>
-
-<h3><p align="center">AI Technology</p></h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,pytorch,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,cs,java,py,flask,postgres,mysql,postman,dotnet,spring,androidstudio" />
   </a>
 </p>
 
@@ -59,9 +69,11 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 <h3><p align="center">Others</p></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,c,cpp,cs,java,py,flask,docker,postgres,github,git,mysql,postman,vscode,anaconda,androidstudio,arduino,dotnet,github,idea,pycharm,pytorch,r,raspberrypi,spring,sklearn,tensorflow,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,github,git,postman,vscode,arduino,idea,pycharm,raspberrypi,visualstudio" />
   </a>
 </p>
+
+
 
 ## 👉 Frameworks
 <p align="left"> 
