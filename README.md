@@ -3,6 +3,8 @@
 
 <h3 align="center">Data Science, AI, Machine Learning, Deep Learning, Web Developer</h3>
 
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+
 ---
 
 ## ✨ About Me
