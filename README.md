@@ -103,8 +103,6 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 
 ---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">🤝 Connect With Me</h2></summary>
