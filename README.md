@@ -101,12 +101,6 @@ I am passionate about **Data Science** and **Artificial Intelligence**, with the
 
 ---
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
----
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
